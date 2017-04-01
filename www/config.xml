@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http:/phonegap.com/ns/1.0"
+        id="com.example.scratch"
+        version="1.0.0">
+
+    <name>Scratch</name>
+
+    <description>
+        Phonegap app written from scratch, no templates.
+    </description>
+
+    <author href="https://kmwenja.github.io" email="mwenja07@gmail.com">
+        Kennedy Mwenja
+    </author>
+
+    <preference name="permissions" value="none"/>
+    <preference name="orientation" value="default"/>
+    <preference name="target-device" value="universal"/>
+    <preference name="fullscreen" value="true"/>
+    <preference name="android-installLocation" value="auto"/>
+
+    <platform name="android"></platform>
+</widget>
